@@ -53,20 +53,3 @@ Este é o repositório do sistema de **Gestão de Chamados**, desenvolvido em C#
 4. **Assistente IA:** Utilize a aba de chat com o modelo Ollama para diagnóstico inicial.
 5. **Gerenciamento:** Edite ou feche chamados conforme necessário.
 
-## 🧩 Arquitetura do Projeto
-
-```
-GestaoDeChamados/        # Raiz do repositório
-├─ database/             # Scripts SQL
-│  └─ schema.sql         # Criação de tabelas
-├─ GestaoDeChamados/     # Código-fonte C#
-│  ├─ Models/            # Classes de modelo
-│  ├─ Data/              # Conexão com PostgreSQL (Npgsql)
-│  ├─ UI/                # Forms e CustomTkinter
-│  └─ AI/                # Integração com Ollama
-└─ README.md             # Documentação
-```
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
