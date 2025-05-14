@@ -13,7 +13,7 @@ Este é o repositório do sistema de **Gestão de Chamados**, desenvolvido em C#
 ## 🛠️ Tecnologias Utilizadas
 
 * Linguagem: C# (.NET Framework)
-* Interface Gráfica: Windows Forms / CustomTkinter
+* Interface Gráfica: Windows Forms
 * Banco de Dados: PostgreSQL
 * IA: Ollama (modelo local de linguagem)
 * ORMs / Drivers: Npgsql
